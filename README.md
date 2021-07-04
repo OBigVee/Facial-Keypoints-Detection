@@ -2,7 +2,7 @@
 
 [image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
 
-# Facial-Key-Points-Detection-System
+# -Facial-Key-Points-Detection-System
 
 ## Project Overview
 in this project i combined the knowlege of computer vision techniques and deep learning architectures to build a facial keypoint detection system.
